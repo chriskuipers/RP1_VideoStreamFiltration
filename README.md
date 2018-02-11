@@ -110,7 +110,7 @@ optional arguments:
 ```
 
 ## Example
-q
 ```
+python rp85.py --model Caffenet.Model --prototxt Caffenet.Proto --feedusb 0 --detection yes --confidence 0.2 --draw yes --labels yes --blur yes --blurlevel 50 --blurpadding 25
 ```
 
